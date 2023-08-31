@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Arnab Ghosh
 - 👀 I’m interested in machine learning, active portfolio management, code development
 - 🌱 I’m currently using C and Python
+- 7 years experience in Computational Fluid Dynamics, fluid-particle interactions
 - 💞️ I love hiking and playing squash
 - 📫 How to reach me with my [linkedin_arnabghosh](https://www.linkedin.com/in/arnab-ghosh-522023149/)
 
